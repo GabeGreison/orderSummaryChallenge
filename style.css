@@ -7,11 +7,11 @@
 
 body {
   width: 100vw;
-  background-image: url("/order-summary-component-main/assets/pattern-background-desktop.svg");
+  background-image: url("/assets/pattern-background-desktop.svg");
 }
 
 main {
-  background-color: hsl(225, 100%, 94%);
+  background-color: hsl(225, 100%, 94%,0.6);
   height: 100vh;
 }
 
@@ -29,7 +29,7 @@ section {
   border-radius: 1rem;
   width: 23rem;
   height: 80vh;
-  background-image: url(/order-summary-component-main/assets/illustration-hero.svg);
+  background-image: url("/assets/illustration-hero.svg");
   background-position: center top;
   background-repeat: no-repeat;
   background-color: rgb(253, 250, 246);
